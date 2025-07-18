@@ -52,7 +52,7 @@ Nitro PDF Pro delivers a robust set of tools to manipulate PDF files seamlessly 
 ## 🖼️ Preview
 
 ![Nitro PDF Pro Screenshot 1](https://www.gonitro.com/hs-fs/hubfs/Why%20Nitro%20is%20the%20Best%20All-in-One%20PDF%20Editor%20for%20Mac%20.webp?width=900&height=675&name=Why%20Nitro%20is%20the%20Best%20All-in-One%20PDF%20Editor%20for%20Mac%20.webp)  
-![Nitro PDF Pro Screenshot 2](https://static.macupdate.com/screenshots/342346/m/nitro-pdf-pro-screenshot.png?v=1666685271)
+![Nitro PDF Pro Screenshot 2](https://www.gonitro.com/hs-fs/hubfs/Website/_Screens/Screenshots-Workspace-Home%20Page.png?width=1200&height=1200&name=Screenshots-Workspace-Home%20Page.png)
 
 ---
 
